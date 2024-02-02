@@ -4,4 +4,4 @@ Does the same thing as the [web version](https://github.com/PhuyalGaurav/certifi
 
 ## TO DO
 
-- [] Make better docs.
+- [ ] Make better docs.
